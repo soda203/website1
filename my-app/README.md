@@ -1,3 +1,17 @@
+
+this website is to desplay my portfolio 
+
+`time stamps/ work completed `
+
+* 1:45pm 08/29/2024
+created app  
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
